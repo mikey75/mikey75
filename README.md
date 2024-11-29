@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello all brave individuals who got here :) 👋
 
-<!--
-**mikey75/mikey75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my late night coding space :) 
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mikey75&show_icons=true&rank_icon=github" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests: 
+
+  - Java
+  - Swing
+  - network
+  - buses
+  - event driven arch
+  - maps
+  - GIS
+    
+
+
