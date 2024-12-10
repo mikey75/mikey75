@@ -13,6 +13,7 @@ My main interests:
   - event driven arch
   - maps
   - GIS
+  - Vintage computing 
     
 
 
