@@ -15,5 +15,8 @@ My main interests:
   - GIS
   - Vintage computing 
     
-
+Non-computer stuff:
+  - MTB cycling, MTBO competitions
+  - Photographing nature and unknown terrain exploration
+  - 80s rock music, fusion/jazzrock, guitar playing
 
